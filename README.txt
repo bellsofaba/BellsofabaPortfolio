@@ -1,8 +1,7 @@
 
 
----
 
-# Bell's Portfolio
+#Bell's Portfolio
 
 Welcome to Bell's Portfolio, a simple, single-page responsive site.
 
