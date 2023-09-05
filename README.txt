@@ -14,11 +14,11 @@ Bell's Portfolio is a simple, single-page responsive website that showcases my w
 
 - **jQuery:** jQuery, a popular JavaScript library, was incorporated to simplify DOM manipulation and create interactive elements within the portfolio.
 
-## About Bell's Portfolio
+## About BellsOfaba Portfolio
 
-Bell's Portfolio is designed for simplicity and ease of use. It offers a seamless browsing experience with a single-page layout that consists mainly of a header and a footer, along with multiple sections. Each section follows a basic pattern, making it easy for visitors to navigate and explore my projects and accomplishments.
+BellsOfaba Portfolio is designed for simplicity and ease of use. It offers a seamless browsing experience with a single-page layout that consists mainly of a header and a footer, along with multiple sections. Each section follows a basic pattern, making it easy for visitors to navigate and explore my projects and accomplishments.
 
 The animated GIF above provides a sneak peek into the portfolio's appearance and functionality. Feel free to explore the repository to learn more and see the code behind this portfolio.
 
-Thank you for visiting Bell's Portfolio!
+Thank you for visiting BellsOfaba Portfolio!
 
