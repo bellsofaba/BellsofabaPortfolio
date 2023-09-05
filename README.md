@@ -2,7 +2,7 @@
 
 [Live Demo](https://bellsofaba.netlify.app/)
 
-![gif](https://i.ibb.co/mvF1vYm/bells-Ofaba-Portfoliogif.gif)
+![gif](https://github.com/bellsofaba/BellsofabaPortfolio/blob/main/assets/gif/bellsOfabaPortfoliogif.gif)
 
 BellsOfaba Portfolio is a simple, single-page responsive website that showcases my work and projects. This portfolio was built using a combination of HTML, CSS, and JavaScript technologies. Specifically, jQuery was used to enhance the interactivity and user experience.
 
