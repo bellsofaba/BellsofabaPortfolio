@@ -1,8 +1,8 @@
-# Welcome to BellOfaba Portfolio
+# Welcome to BellsOfaba Portfolio
 
 ![BellsOfaba Portfolio](https://i.ibb.co/ZWTcQRg/Bells-Ofaba-Portfolio.gif)
 
-Bell's Portfolio is a simple, single-page responsive website that showcases my work and projects. This portfolio was built using a combination of HTML, CSS, and JavaScript technologies. Specifically, jQuery was used to enhance the interactivity and user experience.
+BellsOfaba Portfolio is a simple, single-page responsive website that showcases my work and projects. This portfolio was built using a combination of HTML, CSS, and JavaScript technologies. Specifically, jQuery was used to enhance the interactivity and user experience.
 
 ## Technologies Used
 
